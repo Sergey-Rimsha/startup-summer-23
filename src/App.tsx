@@ -6,6 +6,7 @@ export const App = (): ReactElement => {
     <div className="App">
       <header className="App-header">
         <div>hello world</div>
+        new
       </header>
     </div>
   );
