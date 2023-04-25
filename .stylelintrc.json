@@ -1,0 +1,9 @@
+{
+  "extends": "stylelint-config-standard-scss",
+  "rules": {
+    "max-empty-lines": 2,
+    "block-no-empty": null,
+    "color-function-notation": null,
+    "selector-class-pattern": null
+  }
+}
